@@ -57,6 +57,10 @@ footer {
 
 @media (max-width: 1200px) {
 
+  .container{
+    width: 80%;
+  }
+
   p {
     font-size: 3rem;
     color: #4ECCA3;
@@ -69,7 +73,7 @@ footer {
 
   h1{
     font-size: 9rem;
-    padding-top: 50%;
+    padding-top: 60%;
   }
 
   footer {
