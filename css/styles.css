@@ -12,9 +12,6 @@
 
 body {
   background-color: #393E46;
-    display: grid;
-    place-items: center;
-  
 }
 
 h1 {
@@ -59,7 +56,12 @@ footer {
 }
 
 @media (max-width: 1200px) {
+  body{
+    display: grid;
+    place-items: center;
 
+  }
+  
   p {
     font-size: 3rem;
     color: #4ECCA3;
